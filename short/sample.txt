@@ -1,1 +1,6 @@
+Hello!
+This is a sample text file.
+You are successfully testing your TCP Client–Server program.
+Each line you see here will be sent from the server to the client.
+
 
